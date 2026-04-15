@@ -31,8 +31,6 @@ mvn exec:java -Dexec.mainClass="com.example.App"
 
 //********* it opens saucedemo.com and we can login using the credentials 
 
-
-
 we can run directly the java -jar target/MyMavenSeleniumApp01-1.0-SNAPSHOT  if we add the below plugin in pom.xml
 
 <plugin>
@@ -48,3 +46,4 @@ we can run directly the java -jar target/MyMavenSeleniumApp01-1.0-SNAPSHOT  if w
 </execution>
 </executions>
 </plugin>
+*/
